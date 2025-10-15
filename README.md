@@ -3,7 +3,7 @@
 A modern and beautiful shopping cart application built with React, Vite, and Tailwind CSS.
 
 ![Shopping Cart](https://img.shields.io/badge/React-19.1.1-blue?style=for-the-badge&logo=react)
-![Vite](https://img.shields.io/badge/Vite-7.1.7-646CFF?style=for-the-badge&logo=vite)
+![Vite](https://img.shields.io/badge/Vite-7.1.7-646CFF?style=for-the-badge&logo=vitejs)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-3.4.15-38B2AC?style=for-the-badge&logo=tailwind-css)
 
 ## ✨ Features
