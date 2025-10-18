@@ -1,6 +1,6 @@
 # 🛍️ Shopping Cart
 
-A modern and beautiful shopping cart application built with React, Vite, and Tailwind CSS.
+ A simple yet elegant shopping cart project showcasing modern UI practices using React, Vite, and Tailwind CSS.
 
 ![Shopping Cart](https://img.shields.io/badge/React-19.1.1-blue?style=for-the-badge&logo=react)
 ![Vite](https://img.shields.io/badge/Vite-7.1.7-646CFF?style=for-the-badge&logo=vitejs)
